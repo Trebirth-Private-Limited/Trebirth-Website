@@ -78,7 +78,7 @@ body {
 
 /* RESTYLED Navigation */
 .navbar {
-  position: absolute;
+  position: fixed;
   padding: 0.3rem 0;
   top: 0;
   left: 0;
